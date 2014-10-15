@@ -1,4 +1,4 @@
-The purpose of this extension is to crawl files provided in TYPO3 FE with the dam_frontend extension.
+The purpose of this extension is to crawl files with indexed_search provided in TYPO3 FE with the dam_frontend extension.
 
 
 Usage:
