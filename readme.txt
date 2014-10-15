@@ -1,3 +1,6 @@
+The purpose of this extension is to crawl files provided in TYPO3 FE with the dam_frontend extension.
+
+
 Usage:
 - install with ext. manager (tested in TYPO3 Version 4.7 with indexed_search Version 4.7.7)
 - create a new page with dam frontend single view
