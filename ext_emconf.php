@@ -11,7 +11,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Extends index search indexer',
-	'description' => 'Extends index search indexer for dam_frontend docs',
+	'description' => 'Extends index search indexer and indexsearch for dam_frontend docs',
 	'category' => 'plugin',
 	'author' => 'Carlos Meyer',
 	'author_email' => 'cm@davitec.de',
